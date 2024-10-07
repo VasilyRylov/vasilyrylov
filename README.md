@@ -3,7 +3,7 @@ Lead Software Engineer @Kontur
 
 Skills: Kotlin, KMP, Android, Compose Multiplatform, Software Architecture
 
-[GitHub](https://github.com/VasilyRylov), [Linkedin](https://www.linkedin.com/in/vasilyrylov), [Telegram](https://t.me/vasilyrylov)
+[Linkedin](https://www.linkedin.com/in/vasilyrylov), [Telegram](https://t.me/vasilyrylov)
 
 ### Public projects
  - [KMP multi-module architecture samples](https://github.com/VasilyRylov/architecture-samples)
