@@ -1,4 +1,4 @@
-### About me
+### Hi there 👋
 Lead Software Engineer @Kontur
 
 Skills: Kotlin, KMP, Android, Compose Multiplatform, Software Architecture
